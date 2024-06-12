@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Midnight9385
 - 👀 I’m interested in robot programming, mostly in autonomous actions
-- 🌱 I’m currently learning Java and c++
+- 🌱 I’m currently learning Java, Python, and C++
 
 
 <!---
